@@ -46,7 +46,7 @@ body{
     align-items: flex-end;
 }
 
-#toast{
+.toast{
     background-color: #fff;
     border-radius: 5px;
     padding: 1rem 2rem ;
@@ -64,4 +64,3 @@ body{
   .toast.error {
     color: red;
   }
-  
